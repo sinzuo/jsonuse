@@ -1,17 +1,19 @@
-index.c ±àÒëÎª index
+index.c ï¿½ï¿½ï¿½ï¿½Îª index
 
-param.c ±àÒëÎª main.cgi
+param.c ï¿½ï¿½ï¿½ï¿½Îª main.cgi
 
-mcu.c ±àÒëÎª mcu.cgi
+mcu.c ï¿½ï¿½ï¿½ï¿½Îª mcu.cgi
 
-add.c ±àÒëÎª add.cgi
+add.c ï¿½ï¿½ï¿½ï¿½Îª add.cgi
 
-delete.c ±àÒëÎª delete.cgi
+delete.c ï¿½ï¿½ï¿½ï¿½Îª delete.cgi
 
-upload.c ±àÒëÎª upload
+upload.c ï¿½ï¿½ï¿½ï¿½Îª upload
 
 --liyao 2012-12-18
-ĞÂÔöhttp.cgi£¬Ô­À´µÄmain.cgiºÍindexÔİÊ±»¹±£Áô
-http.c json.c ±àÒëÎªhttp.cgi
+ï¿½ï¿½ï¿½ï¿½http.cgiï¿½ï¿½Ô­ï¿½ï¿½ï¿½ï¿½main.cgiï¿½ï¿½indexï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+http.c json.c ï¿½ï¿½ï¿½ï¿½Îªhttp.cgi
 
-½«±àÒëºÃµÄÎÄ¼ş·ÅÔÚcgi-binÄ¿Â¼ÏÂ¼´¿É
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ãµï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½cgi-binÄ¿Â¼ï¿½Â¼ï¿½ï¿½ï¿½
+
+å…ˆæ‰§è¡Œ secondip.go ç”Ÿæˆtest æ–‡ä»¶
